@@ -11,7 +11,9 @@ const Navbar = () => {
                     <Link href="/products" className="hover:text-blue-600">Products</Link>
                     <Link href="/checkout" className="hover:text-blue-600">Checkout</Link>
                 </div>
-                <div className="flex items-center space-x-4">icon</div>
+                <div className="flex items-center space-x-4">
+                    <Link ></Link>
+                </div>
             </div>
         </nav>
     )
